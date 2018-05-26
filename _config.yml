@@ -1,0 +1,11 @@
+# basic options
+title: NIGERIAN NEWS
+author: GitHub dozie
+email: chidozieokeke48@yahoo.com
+description: News blog
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+theme: minima
